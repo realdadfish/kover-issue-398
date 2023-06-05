@@ -22,3 +22,5 @@ against
 ```
 
 which falsely runs green.
+
+See https://github.com/Kotlin/kotlinx-kover/issues/398
